@@ -1,4 +1,4 @@
-# uppercase-lowercase-check
+# Uppercase-lowercase filename check (feature NOT supported on MacOS APFS!)
 Check if cloned repo distinguishes uppercase and lowercase filenames
 
 Result when run on MacOS (APFS file system):
