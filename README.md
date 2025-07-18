@@ -21,3 +21,6 @@ colliding group is in the working tree:
   'license'
 
 Result: "LICENSE" (uppercase) file is not available in MacOS directory tree!
+
+## There is an APFS case-sensitive flavor:
+https://support.apple.com/lt-lt/guide/disk-utility/dsku19ed921c/mac
